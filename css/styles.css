@@ -11404,3 +11404,44 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+/* Brians css
+*/
+
+body {
+
+background-color: #58967e;
+}
+h1 {
+    text-align: center;
+    color: rgb(194, 211, 162);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+
+h2 {
+    color: rgb(32, 49, 80);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#coin {
+    max-width: 10%;
+  height: 10%;
+}
+
+#back {
+    background-color: #58967e;
+    text-align: center;
+  }
+
+  #background {
+    max-width:25%;
+    height: 50%;
+  }
+
+
+
+.box {
+    display: flex;
+    justify-content: space-between;
+}
